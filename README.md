@@ -1,4 +1,4 @@
-# VGU-Rangers-2023
+# VGU-Dust-Traffic-Project
 
 ## Testing
 To run the real-time detection module, use the `main_api.py` file. The options for running from the CLI:
